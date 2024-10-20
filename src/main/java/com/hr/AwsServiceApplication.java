@@ -10,6 +10,8 @@ public class AwsServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AwsServiceApplication.class, args);
+
+		System.out.println("hiiiiiiiiiiiiii");
 	}
 
 }
